@@ -1,0 +1,11 @@
+student_id,student_name,grade,class,submission_status,homework_score,quiz_name,quiz_score,quiz_date,submission_date,last_activity
+1,Ravi Kumar,8,A,submitted,95,Math Quiz,88,2025-11-05,2025-11-03,2025-11-10
+2,Srujan,8,A,pending,0,Math Quiz,0,2025-11-05,,2025-11-08
+3,Lokesh,8,B,submitted,87,Science Quiz,92,2025-11-06,2025-11-02,2025-11-10
+4,Manju,8,A,submitted,92,Math Quiz,95,2025-11-05,2025-11-04,2025-11-11
+5,Habeeb,8,B,pending,0,Science Quiz,0,2025-11-06,,2025-11-09
+6,Jyothi,9,A,submitted,88,History Quiz,85,2025-11-08,2025-11-01,2025-11-10
+7,Chaitanya,9,A,submitted,98,History Quiz,92,2025-11-08,2025-11-05,2025-11-11
+8,Nani,9,B,pending,0,Physics Quiz,0,2025-11-12,,2025-11-09
+9,Gowtham,8,C,submitted,75,Math Quiz,78,2025-11-05,2025-11-03,2025-11-10
+10,Zabee,9,B,submitted,81,Physics Quiz,88,2025-11-12,2025-11-06,2025-11-11
